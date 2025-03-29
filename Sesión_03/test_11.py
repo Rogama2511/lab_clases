@@ -50,3 +50,6 @@ print("Lista sin las edades:{}".format(sum_lists))
 #Vaciar lista 2
 person_2.clear()
 print("Lista de la segunda persona vacia: {}".format(person_2))
+
+
+fecha_actualizada = "23/03/2025"
